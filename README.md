@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/32b51745de5d8cd737f7511ce3735641/2091aa28b8da1917-88/s540x810/e1b0fae6ab73ea70a54ce99f5732d80b5be56bdd.gif]https://64.media.tumblr.com/32b51745de5d8cd737f7511ce3735641/2091aa28b8da1917-88/s540x810/e1b0fae6ab73ea70a54ce99f5732d80b5be56bdd.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/32b51745de5d8cd737f7511ce3735641/2091aa28b8da1917-88/s540x810/e1b0fae6ab73ea70a54ce99f5732d80b5be56bdd.gif"  />
 
 ###
 
