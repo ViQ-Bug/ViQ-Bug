@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/3290634b4e8359113adc687922b9c7d0/2091aa28b8da1917-cd/s540x810/09b435032b1bd37dd30138de2fbcec8ba796084e.gifv"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/32b51745de5d8cd737f7511ce3735641/2091aa28b8da1917-88/s540x810/e1b0fae6ab73ea70a54ce99f5732d80b5be56bdd.gifv"  />
 
 ###
 
@@ -35,6 +35,8 @@
   <a href="ndc079.code.it@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wechat logo"  />
 </div>
 
 ###
