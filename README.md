@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ViQ and I'm a fullstack developer from Vn</h2>
+<h2 align="left">Hi 👋! My name is ViQ and I'm a fullstack developer from VN</h2>
 
 ###
 
